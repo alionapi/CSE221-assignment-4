@@ -132,7 +132,3 @@ Implements:
 * Top-k student retrieval
 * Rank computation
 
-## Course Information
-
-**Course:** CSE221 Data Structures
-**Semester:** Fall 2024
