@@ -72,7 +72,7 @@ Features:
 
 Combines both structures to maintain synchronized student records.
 
-Supported operations:
+The supported operations:
 
 * `add_student()`
 * `update_score()`
