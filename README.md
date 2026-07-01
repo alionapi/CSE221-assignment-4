@@ -1,6 +1,7 @@
 # CSE221-assignment-4
 CSE221: Data Structures | Fall 2024 | Assignment 4 | Student score Management System
 
+
 A C++ student score management system, that combines hash tables and skip lists to support efficient storage, retrieval, ordering, and ranking of student records.
 
 The system maintains consistency between unordered and ordered data structures while providing fast access by student ID and score.
